@@ -160,7 +160,7 @@ while True:
 
 
         if (count_head > 100):
-            rint("x dif", abs(oldx - x1), "y dif", abs(oldy - y1), "total :", tot)
+            print("x dif", abs(oldx - x1), "y dif", abs(oldy - y1), "total :", tot)
             oldx = x1
             oldy = y1    
             
